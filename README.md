@@ -1,43 +1,44 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Falishhde%2Falishhde&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alishhde)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ali.shhde00@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white&link=https://instagram.com/alishhde/)](https://www.instagram.com/alishhde)
-[![Github](https://img.shields.io/github/followers/alishhde?label=Follow&style=social)](https://github.com/alishhde)
+# Ali Shohadaee
+
+**Developer · ML & AI** — Building tools and datasets, teaching Python, IoT & Git.
 
 <p align="center">
-  <img style="width:8rem; height:auto" src="https://cdn.dribbble.com/users/1787323/screenshots/10091971/media/d43c019bfeff34be8816481e843ea8c1.png"/>
+  <a href="https://github.com/Alishohadaee"><img src="https://img.shields.io/badge/%20-%20-181717?style=flat&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://www.linkedin.com/in/alishohadaee"><img src="https://img.shields.io/badge/%20-%20-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://x.com/Alishohadaee"><img src="https://img.shields.io/badge/%20-%20-000000?style=flat&logo=x&logoColor=white" alt="X"></a>
+  <a href="https://medium.com/@Alishohadaee"><img src="https://img.shields.io/badge/%20-%20-000000?style=flat&logo=medium&logoColor=white" alt="Medium"></a>
+  <a href="https://www.kaggle.com/alishohadaee"><img src="https://img.shields.io/badge/%20-%20-20BEFF?style=flat&logo=kaggle&logoColor=white" alt="Kaggle"></a>
+  <a href="https://huggingface.co/Alishohadaee"><img src="https://img.shields.io/badge/%20-%20-FFD21E?style=flat&logo=huggingface&logoColor=black" alt="Hugging Face"></a>
 </p>
 
-<h1 align="center">Hi, I'm Ali Shohadaee<img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
-<h3 font-size="20" align="center">A passionate programmer and a student from Iran.</h3>
+<!-- --- -->
+
+<!-- ## About -->
+
+I'm an AI Developer. 
+
+<!-- Portfolio & CV: **[alishohadaee.github.io](https://alishohadaee.github.io/)** -->
+
+<!-- --- -->
+
+<!-- ## Projects -->
+
+| Project | Description |
+|--------|-------------|
+| **[ArtBuddy](https://github.com/Alishohadaee/ArtBuddy)** | _concept_ Multi-agent system for brainstorming, design inspiration. |
+| **[ReadingAssistant](https://github.com/Alishohadaee/ReadingAssistant)** |  _concept_ RAG system for PDFs: upload, ask. |
+| **[WellnessBuddy](https://github.com/Alishohadaee/WellnessBuddy)** |  _concept_ AI wellness companion |
+| **[NeuralForge](https://github.com/Alishohadaee/NeuralForge)** | Collection of AI/ML projects and experiments — ML, LLM, and CV.  |
+| **[File-Manager](https://github.com/Alishohadaee/File-Manager)** | Terminal-first file manager. |
+
+<!-- --- -->
 
 
-- 💻 I’m currently learning **To be Extroverted** <img align="right" style="width:16rem; height:auto" src="https://github.com/alishhde/Alishhde/blob/main/resources/img/geek.gif"/>
-<!-- - 🤔 -->
-- 👨‍💻 All of my projects are available [@Alishhde](https://github.com/alishhde/) and my CV [Website](https://alishhde.github.io/)
+| Dataset | Description |
+|--------|-------------|
+| **[LeetCode Problems Dataset](https://huggingface.co/datasets/Alishohadaee/leetcode-problems-dataset)** | Curated LeetCode problems with metadata, descriptions, solutions (Python, Java, C++), hints, and **~2,823 instruction pairs** for LLM fine-tuning and coding-assistant research.  |
 
-- 🌱 I teach Python, IoT, Git, etc. 
+---
 
-- ⚡ **What doesn't KILL you makes you STRONGER** - **DREAMS REALLY DO COME TRUE**
-
-- 📫 How to reach me: alishohadaeolhosseini@gmail.com
-
-<!--
-<div align="center">
-<h2 align="center" style="margin: 5px 10px;">Github Stats</h2> 
-
-[![](https://github-readme-stats.vercel.app/api?username=alishhde&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/alishhde)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=alishhde&theme=material-palenight)](https://github.com/alishhde)
-</div>
--->
-
-<!--
-<p align="center">
-  <img  src="https://raw.githubusercontent.com/alishhde/alishhde/main/resources/img/github-contribution-grid-snake.svg"
-    alt="snake" />
-</p>-->
-
-------
-<!--  Thanks to Hejazizo, Elnaza, thesaravanakumar -->
-
-<!-- ![header](https://user-images.githubusercontent.com/59575502/127335491-fdba1874-e943-4d3c-ab8c-678ffe22f8b8.png) -->
+## Contact
+Always available on X or via emails; open to opensource projects
