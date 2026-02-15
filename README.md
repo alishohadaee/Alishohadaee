@@ -27,7 +27,7 @@ I'm an AI Developer.
 - **[NeuralForge](https://github.com/Alishohadaee/NeuralForge)** — Collection of AI/ML projects and experiments — ML, LLM, and CV.
 - **[File-Manager](https://github.com/Alishohadaee/File-Manager)** — Terminal-first file manager.
 
-**Datasets (Hugging Face)**
+**Datasets**
 
 - **[LeetCode Problems Dataset](https://huggingface.co/datasets/Alishohadaee/leetcode-problems-dataset)** — Curated LeetCode problems with metadata, descriptions, solutions (Python, Java, C++), hints, and **~2,823 instruction pairs** for LLM fine-tuning and coding-assistant research.
 
