@@ -21,6 +21,7 @@ I'm an AI Developer.
 
 **Projects**
 
+- **[Research Agent](https://github.com/alishohadaee/Research-Agents/)** - _concept_ Multi-agent system for doing heavy research on a problem
 - **[ArtBuddy](https://github.com/Alishohadaee/ArtBuddy)** — _concept_ Multi-agent system for brainstorming, design inspiration.
 - **[ReadingAssistant](https://github.com/Alishohadaee/ReadingAssistant)** — _concept_ RAG system for PDFs: upload, ask.
 - **[WellnessBuddy](https://github.com/Alishohadaee/WellnessBuddy)** — _concept_ AI wellness companion.
